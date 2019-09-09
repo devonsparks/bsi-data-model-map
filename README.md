@@ -1,6 +1,6 @@
 # bsi-data-model-map
 
-The diagram in this repository attempts to show the the many data models, serialization formats, and mappings currently in use within the BuildingSmart Interational and ISO/STEP communities. Model formats are colored by owning entity. Mappings between formats are given unique IDs (prefix with "E"). Existing tooling that supports the mapping are provided below.
+The diagram in this repository attempts to show the many data models, serialization formats, and mappings currently in use within the BuildingSmart Interational and ISO/STEP communities. Model formats are colored by owning entity. Mappings between formats are given unique IDs (prefix with "E"). Existing tooling that supports the mapping are provided below.
 
 This diagram is surely incorrect and incomplete. Additions and corrections welcome!
 
