@@ -39,3 +39,6 @@ This diagram is surely incorrect and incomplete. Additions and corrections welco
   
 * E13:
   - OMG ODM [Informative Mapping](https://www.omg.org/spec/ODM/1.1/PDF) (some restrictions)
+
+# License
+All work within this repository is available under the MIT License.
